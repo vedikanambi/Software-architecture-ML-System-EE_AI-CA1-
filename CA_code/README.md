@@ -7,7 +7,7 @@ Continuous Assessment — Vedika Thirumalai Nambi(24222437), Diwakar Gunasekaran
 ## Project Structure
 
 
-email_classifier/
+email_classifier
 │
 ├── Config.py                    # Shared constants (column names, RF params, etc.)
 ├── utils.py                     # Reusable helper functions
