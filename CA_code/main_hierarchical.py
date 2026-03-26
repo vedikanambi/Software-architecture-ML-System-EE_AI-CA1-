@@ -23,7 +23,7 @@ from Config import DATA_FILES
 
 def main():
     print("=" * 60)
-    print("  EMAIL CLASSIFIER — Design Choice 2: Hierarchical Modelling")
+    print(" Design Choice 2: Hierarchical Modelling")
     print("=" * 60)
 
     # Step 1: Preprocessing (identical to DC1 — demonstrates SoC)
