@@ -47,7 +47,7 @@ def perform_chained_modelling(df, X):
 
 def main():
     print("=" * 60)
-    print("  EMAIL CLASSIFIER — Design Choice 1: Chained Multi-Output")
+    print(" Design Choice 1: Chained Multi-Output")
     print("=" * 60)
 
     # Step 1: Preprocessing
